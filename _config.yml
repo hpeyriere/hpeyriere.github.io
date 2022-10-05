@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hugo Peyriere"
 title_separator          : "-"
 name                     : &name "Hugo Peyriere"
-description              : &description "Ocean and Atmosphere Dynamics"
+description              : &description "Young, enthusiastic ocean scientist"
 url                      : https://hpeyriere.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -81,14 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Hugo Peyriere"
-  avatar           : "picture_hugo_peyriere.jpg"
+  avatar           : picture_hugo_peyriere.jpg
   bio              : "Ocean and Atmosphere Dynamics"
   location         : "San Diego, California"
-  employer         :
-  pubmed           : 
+  university       : "UC San Diego"
+  employer         : "https://airsea.ucsd.edu/"
+  pubmed           : #""
   googlescholar    : 
-  email            :
-  researchgate     : 
+  email            : "hpeyriere@ucsd.edu"
+  researchgate     : #""
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +101,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : #""
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : #""
+  orcid            : #""
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : #""
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : #""
   vine             :
   weibo            :
   xing             :
@@ -191,6 +192,17 @@ collections:
 
 # Defaults
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -198,6 +210,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -207,6 +228,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
