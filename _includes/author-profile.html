@@ -25,8 +25,11 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      {% if author.university %}
+        <li><i class="fas fa-fw fa-university" aria-hidden="true"></i> {{ author.university }}</i>
+      {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li><a href="{{ author.employer }}" target="_blank" rel="noopener"><i class="fa fa-fw fa-flask" aria-hidden="true"></i> Air-Sea Interaction Lab</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
