@@ -10,17 +10,17 @@ redirect_from:
 ---
 #### Mailing Address
 <address>
-  Luke Colosi<br /> 156 Las Colinas Drive<br /> Watsonville, CA 95076<br /> United States
+  Hugo Peyriere<br /> 8548 Villa La Jolla Drive<br /> La Jolla, CA 92037<br /> United States
 </address>
 
 #### Email
-<a href = "mailto: lcolosi20@gmail.com">lcolosi20@gmail.com</a> (personal)
+<a href = "mailto: peyriere.hugo@gmail.com">peyriere.hugo@gmail.com</a> (personal)
 <br> 
-<a href = "mailto: lcolosi@ucsd.edu">lcolosi@ucsd.edu</a> (academic)
+<a href = "mailto: hpeyriere@ucsd.edu">hpeyriere@ucsd.edu</a> (academic)
 <br>
 
 #### Phone
-+1-(831)-840-1612
++33-7-70-43-44-88
 
 <center>
     <div style="width:800px; height:400px">
