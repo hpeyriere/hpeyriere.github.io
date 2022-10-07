@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
+Click [here](/files/CV_Peyriere.pdf) for a printable version.<br /><br /><br />
 
 <h1 align="center">{{ site.author.name }}</h1>
 <p align="center">{{ site.author.bio }} <br /> 156 Las Colinas Drive, Watsonville, CA 95076</p>
