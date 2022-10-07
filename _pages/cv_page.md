@@ -53,7 +53,7 @@ Click [here](/files/CV_Peyriere.pdf) for a printable version.<br /><br /><br />
 
 ## Presentations
 
-**2** &#124; NASA S-MODE Science Team Meeting, Virtual (**2022**): Presented research findings on upper ocean current measurements using Wave Gliders during the S–MODE Pilot.
+**3** &#124; NASA S-MODE Science Team Meeting, Virtual (**2022**): Presented research findings on upper ocean current measurements using Wave Gliders during the S–MODE Pilot.
 
 **2** &#124; Paris Peace Forum, Paris, FR (**2019**): Presented a poster on enabling climate diplomacy through the use of Paris Agreement Article 6.2 : linking the emissions–trading schemes of two or more countries. 
 
