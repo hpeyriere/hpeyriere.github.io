@@ -19,23 +19,31 @@ Click [here](/files/CV_Peyriere.pdf) for a printable version.<br /><br /><br />
 
 ## Research Interests
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Air-sea Interactions, Surface Gravity Waves, Remote Sensing.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ocean and Atmosphere Mechanics.
 
 
 ## Education 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **BS, Oceanic and Atmospheric Sciences**, University of California, San Diego (Dec. 2020)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **MSc in Mechanics (Ocean and Atmosphere)**, Institut Polytechnique de Paris (2021 - 2022)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Minor, Mathematics**, University of California, San Diego (Dec. 2020)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **MSc in General Structural Engineering**, Imperial College London (2020 - 2021)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cycle Ingenieur Polytechnicien (MSc equivalent)**, Ecole Polytechnique (2017 - 2021)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **BA in History**, Universite Paris-Nanterre (2018 - 2019)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Classe Preparatoire aux Grandes Ecoles (Physics, Mathematics and Chemistry)**, Lycee Sainte Genevieve (2015 - 2017)
 
 ## Research Experience
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography, San Diego, CA** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Staff Research Associate 1 (Jan. 2021 – present)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Visiting Graduate Student (April 2022 – present)*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Professor Sarah T. Gille Lab, Scripps Institution of Oceanography, San Diego, CA** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Undergraduate Student Researcher (Dec. 2017 – Feb. 2021)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **STICERD Laboratory at the London School of Economics and Political Science (LSE), London, UK** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Research Assistant (Sept. 2020 – June 2021)*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Global Green Growth Institute, Seoul, KR** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Research Assistant (June 2019 – December 2019)*
 
 ## Publications
 
