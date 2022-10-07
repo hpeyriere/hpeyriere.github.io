@@ -39,7 +39,7 @@ Click [here](/files/CV_Peyriere.pdf) for a printable version.<br /><br /><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography, San Diego, CA** <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Visiting Graduate Student (April 2022 – present)*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **STICERD Laboratory at the London School of Economics and Political Science (LSE), London, UK** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **STICERD Laboratory at the London School of Economics and Political Science, London, UK** <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Research Assistant (Sept. 2020 – June 2021)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Global Green Growth Institute, Seoul, KR** <br />
@@ -53,29 +53,25 @@ Click [here](/files/CV_Peyriere.pdf) for a printable version.<br /><br /><br />
 
 ## Presentations
 
-**5** &#124; International Ocean Vector Winds Science Team Meeting, Virtual (**2021**): Presented research finds discussed in [Colosi et. al. 2021](https://doi.org/10.1002/essoar.10506029.1).
+**2** &#124; NASA S-MODE Science Team Meeting, Virtual (**2022**): Presented research findings on upper ocean current measurements using Wave Gliders during the S–MODE Pilot.
 
-**4** &#124; AGU Ocean Science Meeting Poster, San Diego, CA (**2020**): Presented research findinds from [Colosi et. al. 2021](https://doi.org/10.1002/essoar.10506029.1) with improved characterization of uncertainties. 
+**2** &#124; Paris Peace Forum, Paris, FR (**2019**): Presented a poster on enabling climate diplomacy through the use of Paris Agreement Article 6.2 : linking the emissions–trading schemes of two or more countries. 
 
-**3** &#124; Summer Undergraduate Research Fellowship Symposium, Scripps Institution of Oceanography, San Diego, CA (**2019**): I presented a poster on intraannual variability of waves and winds with further developments in statistical methods and quantifying uncertainties.
-
-**2** &#124; Undergraduate Research Conference, UC San Diego, San Diego, CA (**2019**): Participant in the campus wide multidisciplinary research conference for undergraduate students where I presented to university professors and peers my ongoing research on intraannual variability of waves and winds, at global and regional scales, and its possible implications to the sea state.
-
-**1** &#124; Scripps Undergraduate Research Symposium, Scripps Institution of Oceanography, San Diego, CA (**2018**): I presented a poster on global and regional analysis of the annual variability of surface wave significant wave height.
-
+**1** &#124; Tokyo International Conference on African Developmen, Tokyo, JP (**2019**): Presented a green growth index and a simulation tool to evaluate country performances and guide policy.\\[5pt] 
 
 ## Awards
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2019** &nbsp;&nbsp;&nbsp; Summer URS Hiestand Scholarship for cross-disciplinary Engineering and SIO projects<br /> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2017-2019** &nbsp;&nbsp;&nbsp; Provost Honors at University of California, San Diego<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2020-2021** &nbsp;&nbsp;&nbsp; MSc Cluster Scholarship (50% Tuition Fee) & Departmental Scholarship (50% Tuition Fee) - Imperial College Londo<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2017-2020** &nbsp;&nbsp;&nbsp; Outstanding student distinguished through his dedication to the student body - Ecole Polytechnique<br />
 
 
 ## Work Experience
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **California State Parks, Santa Cruz, CA** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *California State Parks Ocean Lifeguard (2015-2018)* <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Coordinator for the Sandman Triathlon (2018)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lazard Sovereign Advisory Division, Paris, FR** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Intern (March-August 2020)* <br />
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **French Navy, Indian Ocean & Persian Gulf** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Commissioned Officer (September 2018 - April 2020)* <br />
   
 ## Teaching
 
