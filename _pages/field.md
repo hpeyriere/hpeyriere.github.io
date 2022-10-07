@@ -5,6 +5,6 @@ permalink: /field/
 author_profile: true
 ---
 
-{% for post in site.talk reversed %}
-  {% include archive-single-talk.html %}
+{% for post in site.field reversed %}
+  {% include archive-single-field.html %}
 {% endfor %}
