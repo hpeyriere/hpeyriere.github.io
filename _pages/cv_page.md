@@ -32,7 +32,7 @@ Click [here](/files/CV_Peyriere.pdf) for a printable version.<br /><br /><br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **BA in History**, Universite Paris-Nanterre (2018 - 2019)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Classe Preparatoire aux Grandes Ecoles (Physics, Mathematics and Chemistry)**, Lycee Sainte Genevieve (2015 - 2017)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Classe Preparatoire aux Grandes Ecoles (Physics, Mathematics and Chemistry)**, Lycee Ste Genevieve (2015 - 2017)
 
 ## Research Experience
 
@@ -47,8 +47,9 @@ Click [here](/files/CV_Peyriere.pdf) for a printable version.<br /><br /><br />
 
 ## Publications
 
-**1** &#124; Colosi, L. V.,  S. T. Gille, and A. B. Villas Bôas (**2021**), The Seasonal Cycle of Significant Waveheight in the Ocean: Local vs Remote Forcing, J. Geophys. Res. Oceans, doi:<a href="https://doi.org/10.1002/essoar.10506029.1" target="_blank">10.1002/essoar.10506029.1</a>
+**2** &#124; Peyriere, H.,  L. Lenain, L. Grare, N. Pizzo, N. M. Statom and T. J. Farrar (**2022**), Observation of new surface ocean currents from autonomous surface vehicles, Journal of Atmospheric and Oceanic Technology, In Preparation
 
+**1** &#124; Acosta, L. L.,  P. Maharajan, H. Peyriere and R. J. Mamiit (**2020**), Natural capital protection indicators: Measuring performance in achieving the sustainable development goals for green growth transition, Environmental and Sustainability Indicators, 8:100069, 2020
 
 ## Presentations
 
