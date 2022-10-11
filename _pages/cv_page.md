@@ -19,84 +19,85 @@ Click [here](/files/CV_Peyriere.pdf) for a printable version.<br /><br /><br />
 
 ## Research Interests
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ocean and Atmosphere Mechanics.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ocean and Atmosphere Mechanics ; Hydrology ; 
 
 
 ## Education 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **MSc in Mechanics (Ocean and Atmosphere)**, Institut Polytechnique de Paris (2021 - 2022)
+&nbsp;&nbsp; **MSc in Mechanics (Ocean and Atmosphere)**, Institut Polytechnique de Paris (2021 - 2022)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **MSc in General Structural Engineering**, Imperial College London (2020 - 2021)
+&nbsp;&nbsp; **MSc in General Structural Engineering**, Imperial College London (2020 - 2021)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Cycle Ingenieur Polytechnicien (MSc equivalent)**, Ecole Polytechnique (2017 - 2021)
+&nbsp;&nbsp; **Cycle Ingenieur Polytechnicien (MSc equivalent)**, Ecole Polytechnique (2017 - 2021)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **BA in History**, Universite Paris-Nanterre (2018 - 2019)
+&nbsp;&nbsp; **BA in History**, Universite Paris-Nanterre (2018 - 2019)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Classe Preparatoire aux Grandes Ecoles (Physics, Mathematics and Chemistry)**, Lycee Ste Genevieve (2015 - 2017)
+&nbsp;&nbsp; **Classe Preparatoire aux Grandes Ecoles (Physics, Mathematics and Chemistry)**, Lycee Ste Genevieve (2015 - 2017)
 
 ## Research Experience
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography, San Diego, CA** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Visiting Graduate Student (April 2022 – present)*
+&nbsp;&nbsp; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography, San Diego, CA** <br />
+&nbsp;&nbsp; *Visiting Graduate Student (April 2022 – present)*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **STICERD Laboratory at the London School of Economics and Political Science, London, UK** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Research Assistant (Sept. 2020 – June 2021)*
+&nbsp;&nbsp; **STICERD Laboratory at the London School of Economics and Political Science, London, UK** <br />
+&nbsp;&nbsp; *Research Assistant (Sept. 2020 – June 2021)*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Global Green Growth Institute, Seoul, KR** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Research Assistant (June 2019 – December 2019)*
+&nbsp;&nbsp; **Global Green Growth Institute, Seoul, KR** <br />
+&nbsp;&nbsp; *Research Assistant (June 2019 – December 2019)*
 
 ## Publications
 
-**2** &#124; Peyriere, H.,  L. Lenain, L. Grare, N. Pizzo, N. M. Statom and T. J. Farrar (**2022**), Observation of new surface ocean currents from autonomous surface vehicles, Journal of Atmospheric and Oceanic Technology, In Preparation
+&nbsp;&nbsp; **2** &#124; Peyriere, H.,  L. Lenain, L. Grare, N. Pizzo, N. M. Statom and T. J. Farrar (**2022**), Observation of new surface ocean currents from autonomous surface vehicles, Journal of Atmospheric and Oceanic Technology, In Preparation
 
-**1** &#124; Acosta, L. L.,  P. Maharajan, H. Peyriere and R. J. Mamiit (**2020**), Natural capital protection indicators: Measuring performance in achieving the sustainable development goals for green growth transition, Environmental and Sustainability Indicators, 8:100069, 2020
+&nbsp;&nbsp; **1** &#124; Acosta, L. L.,  P. Maharajan, H. Peyriere and R. J. Mamiit (**2020**), Natural capital protection indicators: Measuring performance in achieving the sustainable development goals for green growth transition, Environmental and Sustainability Indicators, 8:100069, 2020
 
 ## Presentations
 
-**3** &#124; NASA S-MODE Science Team Meeting, Virtual (**2022**): Presented research findings on upper ocean current measurements using Wave Gliders during the S–MODE Pilot.
+&nbsp;&nbsp; **3** &#124; NASA S-MODE Science Team Meeting, Virtual (**2022**): Presented research findings on upper ocean current measurements using Wave Gliders during the S–MODE Pilot.
 
-**2** &#124; Paris Peace Forum, Paris, FR (**2019**): Presented a poster on enabling climate diplomacy through the use of Paris Agreement Article 6.2 : linking the emissions–trading schemes of two or more countries. 
+&nbsp;&nbsp; **2** &#124; Paris Peace Forum, Paris, FR (**2019**): Presented a poster on enabling climate diplomacy through the use of Paris Agreement Article 6.2 : linking the emissions–trading schemes of two or more countries. 
 
-**1** &#124; Tokyo International Conference on African Developmen, Tokyo, JP (**2019**): Presented a green growth index and a simulation tool to evaluate country performances and guide policy.\\[5pt] 
+&nbsp;&nbsp; **1** &#124; Tokyo International Conference on African Developmen, Tokyo, JP (**2019**): Presented a green growth index and a simulation tool to evaluate country performances and guide policy.\\[5pt] 
 
+## Field Experience
+
+&nbsp;&nbsp; **2** &#124; Paris Peace Forum, Paris, FR (**2019**): Presented a poster on enabling climate diplomacy through the use of Paris Agreement Article 6.2 : linking the emissions–trading schemes of two or more countries. 
+
+&nbsp;&nbsp; **1** &#124; Tokyo International Conference on African Developmen, Tokyo, JP (**2019**): Presented a green growth index and a simulation tool to evaluate country performances and guide policy.\\[5pt] 
+    
 ## Awards
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2020-2021** &nbsp;&nbsp;&nbsp; MSc Cluster Scholarship (50% Tuition Fee) & Departmental Scholarship (50% Tuition Fee) - Imperial College Londo<br /> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2017-2020** &nbsp;&nbsp;&nbsp; Outstanding student distinguished through his dedication to the student body - Ecole Polytechnique<br />
+&nbsp;&nbsp; **2020-2021** &nbsp;&nbsp;&nbsp; MSc Cluster Scholarship (50% Tuition Fee) & Departmental Scholarship (50% Tuition Fee) - Imperial College Londo<br /> 
 
+&nbsp;&nbsp; **2017-2020** &nbsp;&nbsp;&nbsp; Outstanding student distinguished through his dedication to the student body - Ecole Polytechnique<br />
 
 ## Work Experience
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Lazard Sovereign Advisory Division, Paris, FR** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Intern (March-August 2020)* <br />
+&nbsp;&nbsp; **Intern, Lazard Sovereign Advisory Division**, Paris, FR (March-August 2020)
+&nbsp;&nbsp; Economic and infrastructure advisory to developing nations’ governments and finance ministries. Designed economic and debt sustainability models, prepared presentations, and wrote notes for the 2020 sovereign debt restructurings of Ecuador and Zambia.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **French Navy, Indian Ocean & Persian Gulf** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Commissioned Officer (September 2018 - April 2020)* <br />
-  
-## Teaching
+&nbsp;&nbsp; **Commissioned Officer, French Navy**, Indian Ocean & Persian Gulf (September 2018 - April 2020)
+&nbsp;&nbsp; Part of Ecole Polytechnique military service. Followed a 2-month French navy officer course. Embarked for a 6-month deployment at sea on a 200 people/150 metre ship. As Deputy Logistics and Supply Officer, managed ten sailors, completed high-level internal audits and administrative missions, managed logistics and supplies, took charge of the ship’s PR and interacted with foreign dignitaries. As Deputy Navigation Officer, took daily shifts at the ship bridge.
 
-**Software Carpentry Instructor**, San Diego, CA (Aug. 2020 - present)
-  -  Responsible for two day workshops teaching best practices for scientific computing to a broad range of audiences.
-  -  Workshop curriculum focuses on the Unix shell, version control with Git, and programming in Python.
+## Service, Leadership and Community Engagement
 
-**Software Carpentry Workshop Assistant**, San Diego, CA (2019 - 2020)
-  -  Assisted at workshop for Ocean and atmospheric science majors at UCSD (Summer 2019) 
-  -  Assisted at workshop for  Scripps Summer Undergraduate Research Fellowship program (remote; Summer 2020)
+&nbsp;&nbsp; **Street Library, ATD Quart Monde**, Corbeil-Essonnes, FR (2021-2022)
+Weekly street library and help with homework with children aged 5-14 in an underpriviliged area of the Paris metropolitan area.
   
-  
-## Service, Leadership, & Community Engagement
-- Moderator, SIO undergraduate majors’ quarterly meeting on “How to get into a SummerREU”, UC San Diego:  I led group discussions guiding students interested in beginning ocean and atmospheric sciences research. **2020**
-- Tutor, Intermediate algebra, Gompers Preparatory Academy, San Diego, CA, **2020**
-- Student Minister, UC San Diego Newman Center, San Diego, CA: - Served and supported the student community at the UCSD Newman Center through leading community building events, coordinating off campus retreats, and participating in social justice activities such as feeding the homeless and food/clothing drives. **2017-2019**
-- Junior Lifeguard Instructor, California State Parks Santa Cruz, CA: Educated 6 to 14 year olds on lifeguarding skills and led discussions about ocean conditions and aquatic safety. **2015-2018**
-- Exhibit Guide,  Seymour Marine Discovery Center, Santa Cruz, CA:  Educated the public about exhibits involving marine organisms in their ocean environment. **2013**
+&nbsp;&nbsp; **Vice-President, Action Sociale de la Kes**, Palaiseau, FR (2018-2019)
+Student charity at Ecole Polytechnique organizing a range of social actions: language and mathematics classes to refugees, street library, tutoring, homeless soup kitchen. Coordinated 30 volunteers and a 20 000 € budget from donations and fundraising.
 
 ## Computational skills
 
-**Operating Systems** &#124; Unix-based operating systems.
+&nbsp;&nbsp; **Programming Languages** &#124; Python, Fortran, R, Stata, Java, Matlab, SQL, VBA.
 
-**Programming Languages** &#124; Python, Bash, Shell-Script and MatLab.
+&nbsp;&nbsp; **Tools and Software** &#124; upyter notebooks, LaTeX, Abaqus, Adaptic, Gmsh, Photoshop.
 
-**Tools and Software** &#124; Jupyter notebooks, LaTeX, and version control systems (Git).
+## Languages
 
+&nbsp;&nbsp; **French** &#124; Native language.
+
+&nbsp;&nbsp; **English** &#124; Native language.
+
+&nbsp;&nbsp; **Spanish** &#124; Full proficiency.
 
