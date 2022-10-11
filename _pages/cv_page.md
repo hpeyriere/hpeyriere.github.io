@@ -13,7 +13,7 @@ Click [here](/files/CV_Peyriere.pdf) for a printable version.<br /><br /><br />
 
 <h1 align="center">{{ site.author.name }}</h1>
 <p align="center">{{ site.author.bio }} <br /> 8548 Villa La Jolla Drive, La Jolla, CA 92037, USA</p>
-<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a>
+<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
 
 ## Research Interests
 
