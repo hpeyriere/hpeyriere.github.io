@@ -12,6 +12,6 @@ Welcome! After graduating from the Ecole Polytechnique [Ingénieur Polytechnicie
 
 Currently, I am working as a visiting graduate student at the Scripps Institution of Oceanography [Air-Sea Interaction Laboratory](https://airsea.ucsd.edu/) with Dr. [Luc Lenain](https://scripps.ucsd.edu/profiles/llenain) Dr. [Laurent Grare](https://scholar.google.com/citations?user=XmV-fycAAAAJ&hl=en) and Dr. [Nick Pizzo](https://sites.google.com/view/nicholaspizzo/home). We are working on better understanding upper ocean and submesoscale dynamics through the use of observations of horizontal currents, vertical vorticity, horizontal divergence and strain rate from arrays of [Wave Gliders](https://airsea.ucsd.edu/instrumentation/waveglider/).
 
-I am interested in the mechanics of the ocean and atmosphere from meter to tens of kilometers scales, and approaching these topics through physical theory and experimental observation. Interconnections with hydrological systems are also of particular interest to me. I hope to dig deeper into such exciting research as a graduate student.
+I am interested in the mechanics of the ocean and atmosphere from meter to tens of kilometers scales, and interconnections with hydrological systems. I'd like to approach these topics through physical theory and experimental observation, and hope to dig deeper into such exciting research as a graduate student.
 
 I am also fascinated by collective stories, myths and cosmologies, and the ways in which they shape our actions.
