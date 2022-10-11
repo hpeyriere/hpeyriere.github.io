@@ -19,7 +19,7 @@ Click [here](/files/CV_Peyriere.pdf) for a printable version.<br /><br /><br />
 
 ## Research Interests
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ocean and Atmosphere Mechanics ; Hydrology ; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ocean and Atmosphere Mechanics ; Hydrology ; Theory ; Field Observations
 
 
 ## Education 
