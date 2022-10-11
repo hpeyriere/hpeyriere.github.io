@@ -8,3 +8,16 @@ author_profile: true
 {% for post in site.field reversed %}
   {% include archive-single-field.html %}
 {% endfor %}
+
+
+---
+title: "ONR MURI FATIMA (Fog And Turbulence Interactions in the Marine Atmosphere)"
+collection: field
+type: "Deployment at Sea"
+permalink: /field/field-2022-1
+date: 2022-07
+location: "Atlantic Ocean"
+---
+
+Deployed for two weeks at sea for the FATIMA experiment. Deployed and recovered Wave Gliders (crane and marine work, repairs). Remotely piloted Wave Gliders.
+
