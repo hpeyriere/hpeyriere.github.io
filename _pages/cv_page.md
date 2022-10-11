@@ -15,12 +15,9 @@ Click [here](/files/CV_Peyriere.pdf) for a printable version.<br /><br /><br />
 <p align="center">{{ site.author.bio }} <br /> 8548 Villa La Jolla Drive, La Jolla, CA 92037, USA</p>
 <p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a>
 
-
-
 ## Research Interests
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ocean and Atmosphere Mechanics ; Hydrology ; Theory ; Field Observations
-
 
 ## Education 
 
