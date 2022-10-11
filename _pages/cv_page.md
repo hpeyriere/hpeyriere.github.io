@@ -61,9 +61,9 @@ Click [here](/files/CV_Peyriere.pdf) for a printable version.<br /><br /><br />
 
 ## Field Experience
 
-&nbsp;&nbsp; **2** &#124; Paris Peace Forum, Paris, FR (**2019**): Presented a poster on enabling climate diplomacy through the use of Paris Agreement Article 6.2 : linking the emissions–trading schemes of two or more countries. 
+&nbsp;&nbsp; **2** &#124; NASA S-MODE (Sub-Mesoscale Ocean Dynamics Experiment), Pacific Ocean (**October 2022**)
 
-&nbsp;&nbsp; **1** &#124; Tokyo International Conference on African Developmen, Tokyo, JP (**2019**): Presented a green growth index and a simulation tool to evaluate country performances and guide policy.\\[5pt] 
+&nbsp;&nbsp; **1** &#124; ONR MURI FATIMA (Fog And Turbulence Interactions in the Marine Atmosphere), Atlantic Ocean (**July 2022**) 
     
 ## Awards
 
@@ -74,18 +74,14 @@ Click [here](/files/CV_Peyriere.pdf) for a printable version.<br /><br /><br />
 ## Work Experience
 
 &nbsp;&nbsp; **Intern, Lazard Sovereign Advisory Division**, Paris, FR (March-August 2020)
-&nbsp;&nbsp; Economic and infrastructure advisory to developing nations’ governments and finance ministries. Designed economic and debt sustainability models, prepared presentations, and wrote notes for the 2020 sovereign debt restructurings of Ecuador and Zambia.
 
 &nbsp;&nbsp; **Commissioned Officer, French Navy**, Indian Ocean & Persian Gulf (September 2018 - April 2020)
-&nbsp;&nbsp; Part of Ecole Polytechnique military service. Followed a 2-month French navy officer course. Embarked for a 6-month deployment at sea on a 200 people/150 metre ship. As Deputy Logistics and Supply Officer, managed ten sailors, completed high-level internal audits and administrative missions, managed logistics and supplies, took charge of the ship’s PR and interacted with foreign dignitaries. As Deputy Navigation Officer, took daily shifts at the ship bridge.
 
 ## Service, Leadership and Community Engagement
 
 &nbsp;&nbsp; **Street Library, ATD Quart Monde**, Corbeil-Essonnes, FR (2021-2022)
-Weekly street library and help with homework with children aged 5-14 in an underpriviliged area of the Paris metropolitan area.
   
 &nbsp;&nbsp; **Vice-President, Action Sociale de la Kes**, Palaiseau, FR (2018-2019)
-Student charity at Ecole Polytechnique organizing a range of social actions: language and mathematics classes to refugees, street library, tutoring, homeless soup kitchen. Coordinated 30 volunteers and a 20 000 € budget from donations and fundraising.
 
 ## Computational skills
 
