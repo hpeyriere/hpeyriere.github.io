@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hugo Peyriere"
 title_separator          : "-"
 name                     : &name "Hugo Peyriere"
-description              : &description "Ocean and Atmosphere Mechanics"
+description              : &description "Enthusiastic earth & ocean physicist (hydrosphere & atmosphere)"
 url                      : https://hpeyriere.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hugo Peyriere"
   avatar           : picture_hugo_peyriere.jpg
-  bio              : "Ocean and Atmosphere Mechanics"
+  bio              : "Enthusiastic earth & ocean physicist (hydrosphere & atmosphere)"
   location         : "San Diego, California"
   university       : "UC San Diego"
   employer         : "https://airsea.ucsd.edu/"
