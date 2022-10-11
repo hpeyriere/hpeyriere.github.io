@@ -14,6 +14,6 @@ Currently, I am working as a visiting graduate student at the Scripps Institutio
 
 I am interested in ocean and atmosphere dynamics, and would like to build as a graduate student an approach at the interface between theory and observations, using analytic models, field observations and idealized numerical modelling. 
 
-Amongst others, potential topics which I would love to explore in more detail include atmospheric and oceanic turbulence, interactions between different scales, air-sea interactions, vorticity dynamics, tropical storms, atmospheric moist convection, interconnections with surface hydrology, climate change paleoclimates, and more! I am generally passionate about any question I spend enough time focusing on.
+Amongst others, potential topics which I would love to explore in more detail include atmospheric and oceanic turbulence, interactions between different scales, air-sea interactions, vorticity dynamics, tropical storms, atmospheric moist convection, interconnections with surface hydrology, climate extremes, climate change and equilibria, paleoclimates, and more! I am generally passionate about any question I spend enough time focusing on.
 
 I am also fascinated by collective stories, myths and cosmologies, and the ways in which they shape our actions.
