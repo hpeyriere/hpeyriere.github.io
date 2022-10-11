@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](/files/CV_Peyriere.pdf) for a printable version.<br /><br /><br />
+Click [here](/files/CV_Peyriere.pdf) for a more detailed, printable version.<br /><br /><br />
 
 <h1 align="center">{{ site.author.name }}</h1>
 <p align="center">{{ site.author.bio }} <br /> 8548 Villa La Jolla Drive, La Jolla, CA 92037, USA</p>
