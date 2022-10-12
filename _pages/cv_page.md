@@ -17,7 +17,7 @@ Click [here](/files/CV_Peyriere.pdf) for a more detailed, printable version.<br 
 
 ## Research Interests
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ocean and Atmosphere Mechanics ; Hydrology ; Theory ; Field Observations
+&nbsp;&nbsp; Ocean and Atmosphere Dynamics ; Theory ; Field Observations ; Idealized Modelling
 
 ## Education 
 
