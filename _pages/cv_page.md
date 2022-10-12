@@ -84,7 +84,7 @@ Click [here](/files/CV_Peyriere.pdf) for a more detailed, printable version.<br 
 
 &nbsp;&nbsp; **Programming Languages** &#124; Python, Fortran, R, Stata, Java, Matlab, SQL, VBA.
 
-&nbsp;&nbsp; **Tools and Software** &#124; upyter notebooks, LaTeX, Abaqus, Adaptic, Gmsh, Photoshop.
+&nbsp;&nbsp; **Tools and Software** &#124; LaTeX, Abaqus, Adaptic, Gmsh, Jupyter notebooks, Photoshop.
 
 ## Languages
 
