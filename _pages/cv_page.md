@@ -25,7 +25,7 @@ Click [here](/files/CV_Peyriere.pdf) for a more detailed, printable version.<br 
 
 &nbsp;&nbsp; **MSc in General Structural Engineering**, Imperial College London (2020 - 2021)
 
-&nbsp;&nbsp; **Cycle Ingenieur Polytechnicien (MSc equivalent)**, Ecole Polytechnique (2017 - 2021)
+&nbsp;&nbsp; **Cycle Ingenieur Polytechnicien (MSc in Advanced Science and Engineering)**, Ecole Polytechnique (2017 - 2021)
 
 &nbsp;&nbsp; **BA in History**, Universite Paris-Nanterre (2018 - 2019)
 
