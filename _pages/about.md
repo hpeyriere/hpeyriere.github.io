@@ -16,4 +16,4 @@ I am interested in ocean and atmosphere dynamics, and as a graduate student woul
 
 Amongst others, potential topics which I would love to explore in more detail include atmospheric and oceanic turbulence, entropic approaches, interactions between different scales, air-sea interactions, vorticity dynamics, heat transport, atmospheric moist convection, interconnections with surface hydrology, tropical storms, climate extremes, climate change and equilibria, paleoclimates, and more! I am generally passionate about any question I spend enough time focusing on.
 
-I am also fascinated by collective stories, myths and cosmologies, and the ways in which they shape our actions.
+I am also fascinated by collective stories, myths and cosmologies, and the ways in which they shape our actions. Let's re-enchant the world!
